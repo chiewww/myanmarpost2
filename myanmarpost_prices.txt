@@ -1,0 +1,86 @@
+MYANMAR POST - INTERNATIONAL SHIPPING FEE
+Service Type: FP
+Package Type: Letter
+Weight: 0.02 kg
+
+LIST 1 - ACCEPTING COUNTRY (TO)
+Total countries: 45
+
+1. Australia
+2. Austria
+3. Bangladesh
+4. Brunei Darussalam
+5. Cambodia
+6. Canada
+7. Czech Republic
+8. Denmark
+9. Egypt
+10. Ethiopia
+11. Finland
+12. France
+13. Germany
+14. Greece
+15. Hong Kong
+16. India
+17. Indonesia
+18. Italy
+19. Japan
+20. Jordan
+21. Laos
+22. Malaysia
+23. Netherlands
+24. New Zealand
+25. Norway
+26. Oman
+27. Pakistan
+28. Philippines
+29. Poland
+30. Portugal
+31. Romania
+32. Russian Federation
+33. Singapore
+34. South Africa
+35. South Korea
+36. Spain
+37. Sri Lanka
+38. Sweden
+39. Switzerland
+40. Taiwan, Province of China
+41. Thailand
+42. Turkey
+43. United Kingdom
+44. Viet Nam
+45. 🇨🇳 China
+
+LIST 2 - ABNORMAL RESULTS
+A country appears here when the FP Letter 0.02 kg result has a price of 100,000 Kyats or more, or the FP delivery duration does not show the word 'days'.
+
+1. Austria (AT)
+   Price: 11,000 Kyats
+   FP duration: unavailable
+   Reason: FP duration does not show days
+
+2. Egypt (EG)
+   Price: 11,000 Kyats
+   FP duration: unavailable
+   Reason: FP duration does not show days
+
+3. Ethiopia (ET)
+   Price: 11,000 Kyats
+   FP duration: unavailable
+   Reason: FP duration does not show days
+
+4. Jordan (JO)
+   Price: 11,000 Kyats
+   FP duration: unavailable
+   Reason: FP duration does not show days
+
+5. Romania (RO)
+   Price: 11,000 Kyats
+   FP duration: unavailable
+   Reason: FP duration does not show days
+
+6. South Africa (ZA)
+   Price: 11,000 Kyats
+   FP duration: unavailable
+   Reason: FP duration does not show days
